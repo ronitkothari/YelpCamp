@@ -10,10 +10,12 @@ The user can write a review, upload images of a campsite, view other reviews and
 
 ## Technologies Used
 
-Front End: HTML, CSS, Bootstrap
-Back End: NodeJS, NPM, ExpressJS, REST, PassportJS, MongoDB
+* Front End: HTML, CSS, Bootstrap
+* Back End: NodeJS, NPM, ExpressJS, REST, PassportJS, MongoDB
 
-Passport.js was used to handle authentication.  
+* Passport.js was used to handle authentication.  
+
+* Performs CRUD operations for users, campgrounds and comments, while limiting access to users to only allow authorized users to edit and delete campgrounds and comments
 
 ## Features
 * Users can create, edit, and remove campgrounds
