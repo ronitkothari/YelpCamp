@@ -1,9 +1,11 @@
 # YelpCamp
 
-View Live: https://my-campground.herokuapp.com/campgrounds
+View Live: https://my-campground.herokuapp.com/
 
 YelpCamp is a website where users can review campgrounds. 
 The user can write a review, upload images of a campsite, view other reviews and can comment on reviews.
+
+Uses the MERN stack and performs CRUD operations using a REST API, that I built from scratch
 
 ![Image 1](https://raw.githubusercontent.com/himanshup/yelp-camp/master/screenshots/image1.png)  
 ![Image 2](https://raw.githubusercontent.com/himanshup/yelp-camp/master/screenshots/image2.png)  
