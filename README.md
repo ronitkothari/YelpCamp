@@ -1,6 +1,6 @@
 # YelpCamp
-
-View Live: https://my-campground.herokuapp.com/
+View Live: https://yelp-camp.ca/ 
+View Live: https://my-campground.herokuapp.com/ (Until November 2022)
 
 YelpCamp is a website where users can review campgrounds. 
 The user can write a review, upload images of a campsite, view other reviews and can comment on reviews.
